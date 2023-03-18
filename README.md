@@ -4,7 +4,7 @@ Hello, Myself Suyash Mejari an Entusiast in Data Science Field.
 Currently a Final year Graduate Engineering Student in Computer Science and Engineering
 
 # What is this?
-I am here to Display Some Skills and Talents i have learnt til now from academics and Internshala Training on Data Science Field.
+I am here to Display Some Skills and Talents i have learnt til now from academics and Training on Data Science Field.
 
 # Skills
 * Language
@@ -13,7 +13,6 @@ I am here to Display Some Skills and Talents i have learnt til now from academic
 * Database
   # MySQL
   # Oracle
-  # MongoDB
   
 * Technogy
 # Data Science
